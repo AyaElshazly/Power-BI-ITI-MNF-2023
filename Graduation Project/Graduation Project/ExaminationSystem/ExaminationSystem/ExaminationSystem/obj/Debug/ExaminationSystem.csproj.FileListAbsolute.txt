@@ -1,0 +1,34 @@
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\bin\Debug\Guna.UI.dll
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.GenerateExam.resources
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Grades.resources
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Exam.resources
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Login.resources
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.StudentExam.resources
+C:\Users\gogo\source\repos\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Rating.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Exam.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Grades.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Login.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.GenerateExam.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Rating.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.StudentExam.resources
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\ITI-Folder\Graduation Project\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.pdb

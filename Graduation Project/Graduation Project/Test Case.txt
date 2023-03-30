@@ -1,0 +1,22 @@
+
+
+cr_name : Intelligent Information Retrieval  
+
+
+
+Student
+
+email: 123@gmail.com
+username: 123
+password: 123
+id: 600
+name= Gehad Abdallah
+
+
+
+instructor
+
+email: 1234@gmail.com
+username: 1234
+password: 1234
+
